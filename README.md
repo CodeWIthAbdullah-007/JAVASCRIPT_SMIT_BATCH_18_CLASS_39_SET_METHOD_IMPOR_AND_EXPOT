@@ -1,0 +1,2 @@
+# JAVASCRIPT_SMIT_BATCH_18_CLASS_39_SET_METHOD_IMPOR_AND_EXPOT_QUIZZ_APP_PART_1
+JAVASCRIPT_SMIT_BATCH_18_CLASS_39_SET_METHOD_IMPORT_AND_EXPORT_QUIZ_APP_PART_1 is a practice project built in SMIT Batch 18. It demonstrates ES6 module concepts including import and export, and shows how to organize a quiz app using separate files for data and logic to create clean, scalable, and maintainable JavaScript code structure.
